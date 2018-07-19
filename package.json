@@ -1,0 +1,23 @@
+{
+  "name": "vue-dynamic-form",
+  "version": "0.0.1",
+  "description": "dynamic form for Vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "vue test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobChang/vue-dynamic-form.git"
+  },
+  "keywords": [
+    "dynamic",
+    "form"
+  ],
+  "author": "Jacob Chang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JacobChang/vue-dynamic-form/issues"
+  },
+  "homepage": "https://github.com/JacobChang/vue-dynamic-form#readme"
+}
